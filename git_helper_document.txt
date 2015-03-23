@@ -1,0 +1,10 @@
+git status
+git diff
+git commit
+git push
+git add
+git rm
+
+
+pwd
+cd
